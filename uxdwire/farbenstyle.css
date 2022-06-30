@@ -378,41 +378,52 @@ position: absolute;
 #level{
     background-color: rgb(255, 255, 255);
     color: rgb(255, 255, 255);
-    border-color: rgb(150, 150, 150);
-    border-radius: 17px;
+    border-color: rgb(255, 255, 255);
+    border-radius: 5px;
     border-style: outset;
     height: 40px;
     width: 120px;
-    font-size: 28px;
+    font-size: 24px;
     background-image:linear-gradient(90deg,rgb(10, 10, 10),rgb(86, 84, 84),rgb(78, 75, 75),rgb(3, 3, 3));
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: bold;
     text-shadow: white;
     position: absolute;
+    margin-top: -100px;
+    margin-left: -100px;
 }
 
 #settings{
-
-    background-color: rgb(188, 184, 184);
-    border-style: hidden;
-    height: 40px;
-    
+    border-color: white;
+    position: absolute;
+    width: 60px;
+    border-radius: 5px;
+    background-color: rgb(160, 158, 158);
+    margin-left: -630px;  
+    margin-top: 10px; 
  
 
 
 }
 
 #profile{
-    background-color: rgb(188, 184, 184);
-    border-style: hidden;
-    height: 40px;
-    
+    border-color: white;
+    position: absolute;
+    width: 60px;
+    border-radius: 5px;
+    background-color: rgb(212, 211, 211);
+    margin-left: -630px;
+    margin-top: 70px;
 }
 
 #items{
-    background-color: rgb(188, 184, 184);
-    border-style: hidden;
-    height: 40px;
+    border-color: white;
+    position: absolute;
+    width: 60px;
+    border-radius: 5px;
+    background-color: rgb(90, 80, 80);
+    margin-left: -70px;
+    margin-top: 10px;
     
 }
 
