@@ -292,6 +292,15 @@ position: absolute;
     margin-top: 330px;
     margin-left: -640px;
 }
+#back4{
+    border-style: hidden;
+    position: absolute;
+    
+    border-radius: 5px;
+    background-color: white;
+    margin-top: 230px;
+    margin-left: -640px;
+}
 
 #home{
 border-style: hidden;
