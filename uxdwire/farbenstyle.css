@@ -54,6 +54,27 @@ position: absolute;
     margin-top: 0px;
    
    
+    
+}
+
+.text9{
+    width: 625px;
+    height: 85px;
+    padding: 0px;
+    border-color: rgb(253, 251, 251);
+    border-style:groove;
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 4px;
+    font-size: 18px;
+    border-radius: 2px;
+    color: rgb(245, 245, 245);
+position: absolute;
+    background-color: black;
+    margin-left: -645px;
+    margin-top: 277px;
+   
+   
 }
 .text3{
     width: 625px;
@@ -233,6 +254,16 @@ position: absolute;
             margin-top: 250px;
             position: absolute;
             }
+            #next8{
+                border-style: hidden;
+                position: absolute;
+                
+                border-radius: 5px;
+                background-color: white;
+                margin-left: -70px;
+                margin-top: 230px;
+                position: absolute;
+                }
 #back{
     border-style: hidden;
     position: absolute;
