@@ -1,0 +1,502 @@
+body{
+
+    color: rgb(248, 244, 244);
+}
+
+
+
+.picture{
+width: 667px;
+height: 375px;
+border-style:groove;
+border-radius: 0px;
+text-align: center;
+
+background-color: black;
+position: absolute;
+
+}
+
+.text{
+    width: 625px;
+    height: 45px;
+    padding: 0px;
+    border-color: rgb(253, 251, 251);
+    border-style:groove;
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 4px;
+    font-size: 18px;
+    border-radius: 2px;
+    color: rgb(245, 245, 245);
+position: absolute;
+    background-color: black;
+    margin-left: -645px;
+    margin-top: 320px;
+   
+   
+}
+.text2{
+    width: 625px;
+    height: 65px;
+    padding: 0px;
+    border-color: rgb(253, 251, 251);
+    border-style:groove;
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 4px;
+    font-size: 18px;
+    border-radius: 2px;
+    color: rgb(245, 245, 245);
+position: absolute;
+    background-color: black;
+    margin-left: -645px;
+    margin-top: 0px;
+   
+   
+}
+.text3{
+    width: 625px;
+    height: 65px;
+    padding: 0px;
+    border-color: rgb(253, 251, 251);
+    border-style:groove;
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 4px;
+    font-size: 18px;
+    border-radius: 2px;
+    color: rgb(245, 245, 245);
+position: absolute;
+    background-color: black;
+    margin-left: -645px;
+    margin-top: 297px;
+   
+   
+}
+.text4{
+    width: 625px;
+    height: 65px;
+    padding: 0px;
+    border-color: rgb(253, 251, 251);
+    border-style:groove;
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 4px;
+    font-size: 18px;
+    border-radius: 2px;
+    color: rgb(245, 245, 245);
+position: absolute;
+    background-color: black;
+    margin-left: -645px;
+    margin-top: 297px;
+   
+   
+}
+
+.text5{
+    width: 625px;
+    height: 35px;
+    padding: 0px;
+    border-color: rgb(253, 251, 251);
+    border-style:groove;
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 4px;
+    font-size: 18px;
+    border-radius: 2px;
+    color: rgb(245, 245, 245);
+position: absolute;
+    background-color: black;
+    margin-left: -645px;
+    margin-top: 330px;
+   
+   
+}
+
+.text6{
+    width: 625px;
+    height: 50px;
+    padding: 0px;
+    border-color: rgb(253, 251, 251);
+    border-style:groove;
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 4px;
+    font-size: 18px;
+    border-radius: 2px;
+    color: rgb(245, 245, 245);
+position: absolute;
+    background-color: black;
+    margin-left: -345px;
+    margin-top: -70px;
+   
+   
+}
+.text7{
+    width: 625px;
+    height: 65px;
+    padding: 0px;
+    border-color: rgb(253, 251, 251);
+    border-style:groove;
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 4px;
+    font-size: 18px;
+    border-radius: 2px;
+    color: rgb(245, 245, 245);
+position: absolute;
+    background-color: black;
+    margin-left: -315px;
+    margin-top: -80px;
+   
+   
+}
+.text8{
+    width: 625px;
+    height: 65px;
+    padding: 0px;
+    border-color: rgb(253, 251, 251);
+    border-style:groove;
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 4px;
+    font-size: 18px;
+    border-radius: 2px;
+    color: rgb(245, 245, 245);
+position: absolute;
+    background-color: black;
+    margin-left: -315px;
+    margin-top: 290px;
+   
+   
+}
+
+#next{
+    border-style: hidden;
+    position: absolute;
+    
+    border-radius: 5px;
+    background-color: white;
+    margin-top: 280px;
+    margin-left: -60px;
+}
+
+#next2{
+    border-style: hidden;
+    position: absolute;
+    
+    border-radius: 5px;
+    background-color: white;
+    margin-left: -70px;
+    margin-top: 330px;
+    position: absolute;
+    }
+
+    #next3{
+        margin: 0px;
+        background-color: rgb(255, 255, 255);
+        color: rgb(255, 255, 255);
+        border-color: rgb(150, 150, 150);
+        border-radius: 17px;
+        border-style: outset;
+        height: 40px;
+        width: 120px;
+        font-size: 28px;
+        background-image:linear-gradient(90deg,rgb(10, 10, 10),rgb(86, 84, 84),rgb(78, 75, 75),rgb(3, 3, 3));
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: bold;
+        text-shadow: rgb(0, 0, 0);
+        margin-left: -130px;
+        margin-top: 250px;
+        position: absolute;
+        }
+
+        
+    #next4{
+        border-style: hidden;
+        position: absolute;
+        
+        border-radius: 5px;
+        background-color: white;
+        margin-left: -80px;
+        margin-top: 250px;
+        position: absolute;
+        }
+        #next7{
+            border-style: hidden;
+            position: absolute;
+            
+            border-radius: 5px;
+            background-color: white;
+            margin-left: 270px;
+            margin-top: 250px;
+            position: absolute;
+            }
+#back{
+    border-style: hidden;
+    position: absolute;
+    
+    border-radius: 5px;
+    background-color: white;
+    margin-top: 250px;
+    margin-left: -630px;
+}
+#back2{
+    border-style: hidden;
+    position: absolute;
+    
+    border-radius: 5px;
+    background-color: white;
+    margin-top: 280px;
+    margin-left: -640px;
+}
+
+#back3{
+    border-style: hidden;
+    position: absolute;
+    
+    border-radius: 5px;
+    background-color: white;
+    margin-top: 330px;
+    margin-left: -640px;
+}
+
+#home{
+border-style: hidden;
+position: absolute;
+width: 55px;
+border-radius: 5px;
+
+background-color: white;
+margin-top: 10px;
+margin-left: -630px;
+}
+
+.startseite{
+ width: 200px;
+ margin-right: 50px;
+}
+
+
+
+.intro{
+margin: 100px;
+margin-left: -150px;
+margin-top: 230px;
+background-color: rgb(255, 255, 255);
+color: rgb(255, 255, 255);
+border-color: rgb(150, 150, 150);
+border-radius: 17px;
+border-style: outset;
+height: 40px;
+width: 120px;
+font-size: 28px;
+background-image:linear-gradient(90deg,rgb(10, 10, 10),rgb(86, 84, 84),rgb(78, 75, 75),rgb(3, 3, 3));
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-weight: bold;
+text-shadow: white;
+position: absolute;
+}
+
+#ja{
+    background-color: rgb(255, 255, 255);
+color: rgb(255, 255, 255);
+border-color: rgb(150, 150, 150);
+border-radius: 17px;
+border-style: outset;
+height: 40px;
+width: 120px;
+font-size: 28px;
+background-image:linear-gradient(90deg,rgb(10, 10, 10),rgb(86, 84, 84),rgb(78, 75, 75),rgb(3, 3, 3));
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-weight: bold;
+text-shadow: white;
+position: absolute;
+margin-top: 0px;
+margin-left: -200px;
+
+}
+
+#nein{
+
+    background-color: rgb(255, 255, 255);
+color: rgb(255, 255, 255);
+border-color: rgb(150, 150, 150);
+border-radius: 17px;
+border-style: outset;
+height: 40px;
+width: 120px;
+font-size: 28px;
+background-image:linear-gradient(90deg,rgb(10, 10, 10),rgb(86, 84, 84),rgb(78, 75, 75),rgb(3, 3, 3));
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-weight: bold;
+text-shadow: white;
+position: absolute;
+}
+
+#level{
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    border-color: rgb(150, 150, 150);
+    border-radius: 17px;
+    border-style: outset;
+    height: 40px;
+    width: 120px;
+    font-size: 28px;
+    background-image:linear-gradient(90deg,rgb(10, 10, 10),rgb(86, 84, 84),rgb(78, 75, 75),rgb(3, 3, 3));
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    text-shadow: white;
+    position: absolute;
+}
+
+#settings{
+
+    background-color: rgb(188, 184, 184);
+    border-style: hidden;
+    height: 40px;
+    
+ 
+
+
+}
+
+#profile{
+    background-color: rgb(188, 184, 184);
+    border-style: hidden;
+    height: 40px;
+    
+}
+
+#items{
+    background-color: rgb(188, 184, 184);
+    border-style: hidden;
+    height: 40px;
+    
+}
+
+#decision{
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    border-color: rgb(150, 150, 150);
+    border-radius: 17px;
+    border-style: outset;
+    height: 40px;
+    font-size: 22px;
+    background-image:linear-gradient(90deg,rgb(10, 10, 10),rgb(86, 84, 84),rgb(78, 75, 75),rgb(3, 3, 3));
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    text-shadow: white;
+    position: absolute;
+    margin-left: -400px;
+    margin-top: 250px;
+}
+
+#decision2{
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    border-color: rgb(150, 150, 150);
+    border-radius: 17px;
+    border-style: outset;
+    height: 40px;
+    
+    font-size: 22px;
+    background-image:linear-gradient(90deg,rgb(10, 10, 10),rgb(86, 84, 84),rgb(78, 75, 75),rgb(3, 3, 3));
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    text-shadow: white;
+    position: absolute;
+    margin-top: 250px;
+    margin-left: -270px;
+}
+
+#decision3{
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    border-color: rgb(150, 150, 150);
+    border-radius: 17px;
+    border-style: outset;
+    height: 40px;
+    
+    font-size: 22px;
+    background-image:linear-gradient(90deg,rgb(10, 10, 10),rgb(86, 84, 84),rgb(78, 75, 75),rgb(3, 3, 3));
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    text-shadow: white;
+    position: absolute;
+    margin-top: 250px;
+    margin-left: -150px;
+}
+
+#decision4{
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    border-color: rgb(150, 150, 150);
+    border-radius: 17px;
+    border-style: outset;
+    height: 60px;
+    width: 250px;
+    font-size: 18px;
+    background-image:linear-gradient(90deg,rgb(10, 10, 10),rgb(86, 84, 84),rgb(78, 75, 75),rgb(3, 3, 3));
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    text-shadow: white;
+    position: absolute;
+    margin-top: 230px;
+    margin-left: -550px;
+}
+
+#decision5{
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    border-color: rgb(150, 150, 150);
+    border-radius: 17px;
+    border-style: outset;
+    height: 60px;
+    width: 200px;
+    font-size: 18px;
+    background-image:linear-gradient(90deg,rgb(10, 10, 10),rgb(86, 84, 84),rgb(78, 75, 75),rgb(3, 3, 3));
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    text-shadow: white;
+    position: absolute;
+    margin-top: 230px;
+    margin-left: -220px;
+}
+
+#decision6{
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    border-color: rgb(150, 150, 150);
+    border-radius: 17px;
+    border-style: outset;
+    height: 80px;
+    width: 260px;
+    font-size: 18px;
+    background-image:linear-gradient(90deg,rgb(10, 10, 10),rgb(86, 84, 84),rgb(78, 75, 75),rgb(3, 3, 3));
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    text-shadow: white;
+    position: absolute;
+    margin-top: 15px;
+    margin-left: -550px;
+}
+
+#decision7{
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    border-color: rgb(150, 150, 150);
+    border-radius: 17px;
+    border-style: outset;
+    height: 60px;
+    width: 200px;
+    font-size: 18px;
+    background-image:linear-gradient(90deg,rgb(10, 10, 10),rgb(86, 84, 84),rgb(78, 75, 75),rgb(3, 3, 3));
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    text-shadow: white;
+    position: absolute;
+    margin-top: 15px;
+    margin-left: -220px;
+}
