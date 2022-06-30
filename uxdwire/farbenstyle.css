@@ -193,6 +193,26 @@ position: absolute;
    
 }
 
+.text10{
+    width: 625px;
+    height: 40px;
+    padding: 0px;
+    border-color: rgb(253, 251, 251);
+    border-style:groove;
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 4px;
+    font-size: 20px;
+    border-radius: 2px;
+    color: rgb(245, 245, 245);
+position: absolute;
+    background-color: black;
+    margin-left: -315px;
+    margin-top: -60px;
+   
+   
+}
+
 #next{
     border-style: hidden;
     position: absolute;
@@ -283,6 +303,16 @@ position: absolute;
     margin-left: -640px;
 }
 
+#back10{
+    border-style: hidden;
+    position: absolute;
+    
+    border-radius: 5px;
+    background-color: white;
+    margin-top: -100px;
+    margin-left: -310px;
+}
+
 #back3{
     border-style: hidden;
     position: absolute;
@@ -308,9 +338,9 @@ position: absolute;
 width: 55px;
 border-radius: 5px;
 
-background-color: white;
+background-color: rgb(255, 255, 255);
 margin-top: 10px;
-margin-left: -630px;
+margin-left: -645px;
 }
 
 .startseite{
@@ -346,8 +376,8 @@ border-color: rgb(150, 150, 150);
 border-radius: 17px;
 border-style: outset;
 height: 40px;
-width: 120px;
-font-size: 28px;
+width: 200px;
+font-size: 22px;
 background-image:linear-gradient(90deg,rgb(10, 10, 10),rgb(86, 84, 84),rgb(78, 75, 75),rgb(3, 3, 3));
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 font-weight: bold;
@@ -355,7 +385,8 @@ text-shadow: white;
 position: absolute;
 margin-top: 0px;
 margin-left: -200px;
-
+margin-top: -120px;
+margin-left: -230px;
 }
 
 #nein{
@@ -366,13 +397,15 @@ border-color: rgb(150, 150, 150);
 border-radius: 17px;
 border-style: outset;
 height: 40px;
-width: 120px;
-font-size: 28px;
+width: 250px;
+font-size: 22px;
 background-image:linear-gradient(90deg,rgb(10, 10, 10),rgb(86, 84, 84),rgb(78, 75, 75),rgb(3, 3, 3));
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 font-weight: bold;
 text-shadow: white;
 position: absolute;
+margin-top: -120px;
+margin-left: 70px;
 }
 
 #level{
