@@ -260,4 +260,4 @@ window.addEventListener("load", function () {
     document.querySelector("#language").addEventListener("click", function () { language(); });
     document.querySelector("#rules").addEventListener("click", function () { rules(); });
 });
-//# sourceMappingURL=script.js.map
+//# sourceMappingURL=scriptos.js.map
