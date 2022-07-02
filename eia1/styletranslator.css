@@ -1,0 +1,102 @@
+
+.page {
+    width: 375px;
+    height: 667px;
+    background-color: rgb(255, 39, 176);   
+    position: relative;
+    margin: auto;
+    text-align: center;
+}
+
+.text {
+    border-style: ridge;
+    border-radius: 0px;
+    border-color: rgb(255, 255, 255);
+    width: 335px;
+    height: 20px;
+    padding: 10px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 18px;
+}
+
+#german {
+    background-color: rgb(181, 44, 183);
+    color: white;
+    font-family: fantasy;
+}
+
+#spanish {
+    background-color: rgb(69, 255, 246);
+    font-family: fantasy;
+}
+
+button {
+    margin-top: 10px;
+    border-color: black;
+    width: 90px;
+    height: 50px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#easy {
+    background-color: rgb(105, 251, 100);
+}
+
+#medium {
+    background-color: rgb(116, 173, 253);
+}
+
+#hard {
+    background-color: rgb(240, 58, 58);
+}
+
+
+#punktetext {
+    position: absolute;
+    background-color: rgb(46, 77, 255);
+    text-align: left;
+    margin-top: 00px;
+    width: 80px;
+    margin-left: 200px;
+}
+
+footer {
+    position: relative;
+    margin-top: 0px;
+}
+
+
+#bar{
+    position: fixed;
+    width: 30px;
+    height: 300px;
+    margin-left: 170px;
+    margin-top: 320px;
+    background-color: rgb(1, 1, 1);
+    transform: rotate(90deg);
+
+}
+
+#fsanzeige {
+    position: absolute;
+    width: 100%;
+    height: 50%;
+    background: #c90057;
+    
+
+}
+
+#fstext {
+    position: absolute;
+    color: black;
+    transform: rotate(270deg);
+    bottom:50%;
+    margin-left: 0px;
+    font-size: 20px;
+    margin-bottom: -100px;
+  
+}
